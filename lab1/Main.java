@@ -6,6 +6,10 @@ public class Main {
         System.out.println("ZPI2022_IO2_Banany. Scrum Master Dominik Misztal");
     }
 
+    public double Addition(double A,double B){
+        return A+B;
+    }
+
     public static double Division(double A, double B){
         return A/B;
     }
