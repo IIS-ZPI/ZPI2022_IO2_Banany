@@ -22,5 +22,9 @@ public class Main {
     public static double Division(double A, double B){
         return A/B;
     }
+
+    public static double difference(double a, double b) {
+        return a - b;
+    }
 }
 
