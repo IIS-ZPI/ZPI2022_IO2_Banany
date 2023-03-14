@@ -5,4 +5,9 @@ public class Main {
         //Comment from scrum master
         System.out.println("ZPI2022_IO2_Banany. Scrum Master Dominik Misztal");
     }
+
+    public static double Division(double A, double B){
+        return A/B;
+    }
 }
+
